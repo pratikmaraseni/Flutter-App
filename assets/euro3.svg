@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="377" height="159" viewBox="0 0 377 159">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#pattern);
+      }
+    </style>
+    <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 1600 1063">
+      <image width="1600" height="1063" xlink:href="Euro-2012-wallpapers-8-image.jpg"/>
+    </pattern>
+  </defs>
+  <rect id="Euro-2012-wallpapers-8" class="cls-1" width="377" height="159"/>
+</svg>
